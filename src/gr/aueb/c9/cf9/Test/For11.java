@@ -1,6 +1,6 @@
 package gr.aueb.c9.cf9.Test;
 
-//Με sum = 30 και αφαίρεσε όλους τους άρτιους αριθμούς από το 2 μέχρι το 10.
+//Με sum = 30 αφαίρεσε όλους τους άρτιους αριθμούς από το 2 μέχρι το 10.
 
 public class For11 {
     public static void main(String[] args) {
